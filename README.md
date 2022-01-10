@@ -45,7 +45,7 @@ Amy's Portfolio
 ![Screenshot of note adding](./src/images/amy-portfolio.png)<br/>
 
 ## Github Page: 
-https://github.com/amykep/Amy-React-Portfolio
+https://github.com/amykep/amy-portfolio
 
 ## Deployed at:
-http://amykep.github.io/Amy-React-Portfolio/
+https://amykep.github.io/amy-portfolio/
