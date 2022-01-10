@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "//amy-portfolio/static/css/main.5af976a7.css",
-    "main.js": "//amy-portfolio/static/js/main.61f5af5b.js",
-    "static/js/787.3798b525.chunk.js": "//amy-portfolio/static/js/787.3798b525.chunk.js",
-    "static/media/background-abstract.png": "//amy-portfolio/static/media/background-abstract.d8a50d8cd51d8cafe828.png",
-    "static/media/Extraordinary Cakes.png": "//amy-portfolio/static/media/Extraordinary Cakes.ec4d09087613817d85d3.png",
-    "static/media/dog-cat-breeds.png": "//amy-portfolio/static/media/dog-cat-breeds.b0ced62dc0f41de6aa19.png",
-    "static/media/E-SOLUTIONS WEBSITE.png": "//amy-portfolio/static/media/E-SOLUTIONS WEBSITE.c10498e52024c4deafca.png",
-    "static/media/resume.png": "//amy-portfolio/static/media/resume.3bd42818bf5a228e1e49.png",
-    "static/media/login-signup.png": "//amy-portfolio/static/media/login-signup.ab1a79e0531996e901a2.png",
-    "static/media/Resume.pdf": "//amy-portfolio/static/media/Resume.cb0734e539966be197c9.pdf",
-    "static/media/budget-tracker.png": "//amy-portfolio/static/media/budget-tracker.8f842d04fe159829207b.png",
-    "static/media/password-generator.png": "//amy-portfolio/static/media/password-generator.04080f7fe565431d22ed.png",
-    "static/media/abstract-woman-face.png": "//amy-portfolio/static/media/abstract-woman-face.abf5a1adbb53b381e45b.png",
-    "index.html": "//amy-portfolio/index.html",
-    "main.5af976a7.css.map": "//amy-portfolio/static/css/main.5af976a7.css.map",
-    "main.61f5af5b.js.map": "//amy-portfolio/static/js/main.61f5af5b.js.map",
-    "787.3798b525.chunk.js.map": "//amy-portfolio/static/js/787.3798b525.chunk.js.map"
+    "main.css": "/amy-portfolio/static/css/main.afbc15c2.css",
+    "main.js": "/amy-portfolio/static/js/main.c3c9db76.js",
+    "static/js/787.3798b525.chunk.js": "/amy-portfolio/static/js/787.3798b525.chunk.js",
+    "static/media/background-abstract.png": "/amy-portfolio/static/media/background-abstract.d8a50d8cd51d8cafe828.png",
+    "static/media/Extraordinary Cakes.png": "/amy-portfolio/static/media/Extraordinary Cakes.ec4d09087613817d85d3.png",
+    "static/media/dog-cat-breeds.png": "/amy-portfolio/static/media/dog-cat-breeds.b0ced62dc0f41de6aa19.png",
+    "static/media/E-SOLUTIONS WEBSITE.png": "/amy-portfolio/static/media/E-SOLUTIONS WEBSITE.c10498e52024c4deafca.png",
+    "static/media/resume.png": "/amy-portfolio/static/media/resume.3bd42818bf5a228e1e49.png",
+    "static/media/login-signup.png": "/amy-portfolio/static/media/login-signup.ab1a79e0531996e901a2.png",
+    "static/media/Resume.pdf": "/amy-portfolio/static/media/Resume.cb0734e539966be197c9.pdf",
+    "static/media/budget-tracker.png": "/amy-portfolio/static/media/budget-tracker.8f842d04fe159829207b.png",
+    "static/media/password-generator.png": "/amy-portfolio/static/media/password-generator.04080f7fe565431d22ed.png",
+    "static/media/abstract-woman-face.png": "/amy-portfolio/static/media/abstract-woman-face.abf5a1adbb53b381e45b.png",
+    "index.html": "/amy-portfolio/index.html",
+    "main.afbc15c2.css.map": "/amy-portfolio/static/css/main.afbc15c2.css.map",
+    "main.c3c9db76.js.map": "/amy-portfolio/static/js/main.c3c9db76.js.map",
+    "787.3798b525.chunk.js.map": "/amy-portfolio/static/js/787.3798b525.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5af976a7.css",
-    "static/js/main.61f5af5b.js"
+    "static/css/main.afbc15c2.css",
+    "static/js/main.c3c9db76.js"
   ]
 }
