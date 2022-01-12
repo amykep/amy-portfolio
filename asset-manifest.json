@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/amy-portfolio/static/css/main.f4a0a14f.chunk.css",
-    "main.js": "/amy-portfolio/static/js/main.de1ed3d0.chunk.js",
-    "main.js.map": "/amy-portfolio/static/js/main.de1ed3d0.chunk.js.map",
+    "main.css": "/amy-portfolio/static/css/main.0b30b9e4.chunk.css",
+    "main.js": "/amy-portfolio/static/js/main.6ac42357.chunk.js",
+    "main.js.map": "/amy-portfolio/static/js/main.6ac42357.chunk.js.map",
     "runtime-main.js": "/amy-portfolio/static/js/runtime-main.602a1959.js",
     "runtime-main.js.map": "/amy-portfolio/static/js/runtime-main.602a1959.js.map",
     "static/js/2.969e251e.chunk.js": "/amy-portfolio/static/js/2.969e251e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3345cfe8.chunk.js": "/amy-portfolio/static/js/3.3345cfe8.chunk.js",
     "static/js/3.3345cfe8.chunk.js.map": "/amy-portfolio/static/js/3.3345cfe8.chunk.js.map",
     "index.html": "/amy-portfolio/index.html",
-    "static/css/main.f4a0a14f.chunk.css.map": "/amy-portfolio/static/css/main.f4a0a14f.chunk.css.map",
+    "static/css/main.0b30b9e4.chunk.css.map": "/amy-portfolio/static/css/main.0b30b9e4.chunk.css.map",
     "static/js/2.969e251e.chunk.js.LICENSE.txt": "/amy-portfolio/static/js/2.969e251e.chunk.js.LICENSE.txt",
     "static/media/E-SOLUTIONS WEBSITE.c10498e5.png": "/amy-portfolio/static/media/E-SOLUTIONS WEBSITE.c10498e5.png",
     "static/media/Extraordinary Cakes.ec4d0908.png": "/amy-portfolio/static/media/Extraordinary Cakes.ec4d0908.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.602a1959.js",
     "static/js/2.969e251e.chunk.js",
-    "static/css/main.f4a0a14f.chunk.css",
-    "static/js/main.de1ed3d0.chunk.js"
+    "static/css/main.0b30b9e4.chunk.css",
+    "static/js/main.6ac42357.chunk.js"
   ]
 }
