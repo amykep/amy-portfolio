@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <div>
+    <section
+      class="about"
+      id="about"
+    >
+      <h2>
+        About
+      </h2>
+      <div
+        class="about-info"
+      >
+        <div
+          class="about-img"
+        >
+          <img
+            alt="Abstract Woman Face"
+            src="abstract-woman-face.png"
+          />
+        </div>
+        <div
+          class="about-text"
+        >
+          <p>
+            Motivated professional full stack web developer leveraging background in engineering to provide comprehensive solutions. Earned a certificate in Full Stack Web Development from the University of California Berkeley Coding Boot Camp. Innovative problem-solver who is passionate about web design and development. Strengths in creativity, teamwork, and building projects from concept to complete execution.
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+</DocumentFragment>
+`;
